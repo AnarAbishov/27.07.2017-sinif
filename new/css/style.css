@@ -1,0 +1,42 @@
+body {
+    height: 3000px;
+    margin: 0px;
+}
+.container {
+    width: 800px;
+    height: 500px;
+    margin: 0px 0px 0px 350px;
+   }
+
+.img {
+    position: relative;
+    
+}
+
+.desc {
+    position:absolute ;
+    color: white;
+      left: 0px;
+    bottom: 0px;
+    background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+}
+
+.sol {
+    position: absolute;
+    color: white;
+    left: 0px;
+    top: 250px;
+    margin: 10px;
+    border-radius: 999px;
+    padding: 10px;
+    background-color: black;
+}
+
+.sag {
+    position: absolute;
+    color: white;
+    right: 0px;
+    top: 250px;
+    margin: 10px;
+}
